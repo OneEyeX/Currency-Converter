@@ -53,6 +53,42 @@ export class AppComponent {
         this.result = this.currChedJson.rates.USD;
       }
 
+      if (this.contChed2 == "MAD") {
+        this.result = this.currChedJson.rates.MAD;
+      }
+
+      if (this.contChed2 == "ILS") {
+        this.result = this.currChedJson.rates.ILS;
+      }
+
+      if (this.contChed2 == "DZD") {
+        this.result = this.currChedJson.rates.DZD;
+      }
+
+      if (this.contChed2 == "LYD") {
+        this.result = this.currChedJson.rates.LYD;
+      }
+
+      if (this.contChed2 == "EGP") {
+        this.result = this.currChedJson.rates.EGP;
+      }
+
+      if (this.contChed2 == "SDG") {
+        this.result = this.currChedJson.rates.SDG;
+      }
+
+      if (this.contChed2 == "SAR") {
+        this.result = this.currChedJson.rates.SAR;
+      }
+
+      if (this.contChed2 == "TRY") {
+        this.result = this.currChedJson.rates.TRY;
+      }
+
+      if (this.contChed2 == "QAR") {
+        this.result = this.currChedJson.rates.QAR;
+      }
+
     })
 
 
