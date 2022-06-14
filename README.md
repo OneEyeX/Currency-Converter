@@ -9,6 +9,6 @@ it's a currency converter app that exchange rates available countries. It shows 
 <h2>
 <a href="https://oneeyex.github.io/Currency-Converter/" target="_blank"> Link to try Currency Converter</a></h2>
 
-## NB this app is just a beta version
+## NB this app is a beta version
 
 <h3> this app is created by <a href="https://www.linkedin.com/in/chedly-chahed-a178a9196/"> Chedly Chahed</a> </h3>
