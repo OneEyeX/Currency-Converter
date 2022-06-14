@@ -38,7 +38,7 @@ export class AppComponent {
       // console.log(this.currChedJson);
 
       this.currChedJson = JSON.parse(this.currChedJson);
-      console.log(this.currChedJson);
+      // console.log(this.currChedJson);
 
       // this.result = this.currChedJson.rates.TND
       if (this.contChed2 == "TND") {
