@@ -89,6 +89,22 @@ export class AppComponent {
         this.result = this.currChedJson.rates.QAR;
       }
 
+      if (this.contChed2 == "SYP") {
+        this.result = this.currChedJson.rates.SYP;
+      }
+
+      if (this.contChed2 == "KWD") {
+        this.result = this.currChedJson.rates.KWD;
+      }
+
+      if (this.contChed2 == "LBP") {
+        this.result = this.currChedJson.rates.LBP;
+      }
+
+      if (this.contChed2 == "RUB") {
+        this.result = this.currChedJson.rates.RUB;
+      }
+
     })
 
 

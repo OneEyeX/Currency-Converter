@@ -1,6 +1,6 @@
 .main-container{
     background-color: rgb(53,53,53);
-    width: 700px;
+    width: 800px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -64,6 +64,7 @@ button:hover{
     background-color:rgb(235, 235, 235);
     margin: 10px;
     width: auto;
+    /* width: 55%; */
     padding: 0px 30px;
     justify-content:space-evenly;
     border-radius:7px;
@@ -85,13 +86,14 @@ button:hover{
 }
 
 .linko{
-text-decoration: none;
-color:rgb(187, 208, 243)
+    text-decoration: none;
+    /* color:rgb(187, 208, 243); */
+    color: rgb(160, 177, 252);
 }
 .linko:hover{
     cursor: pointer;
     outline: none;
-    color: rgb(87, 153, 252);
+    color: rgb(87, 117, 252);
 }
 
 span {
@@ -119,4 +121,8 @@ a {
 a:hover span {
   display: contents;
   text-align: center;
+}
+.tooltip:hover{
+    color: rgb(87, 117, 252);
+    /* color: rgb(255, 207, 185); */
 }
