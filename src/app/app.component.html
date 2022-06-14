@@ -1,10 +1,11 @@
 <div style="display: flex;height: 750px;justify-content: center;align-items: center;">
   <div class="main-container">
-    <h1 class="Header-title">Currency Converter</h1>
+    <h1 class="Header-title"> <a class="titro" href="javascript:void(0)"> Currency Converter </a> </h1>
     <div class="selection-cont">
 
       <!-- <input type="text" name="" id=""> -->
       <select #c1 name="" id="country1" (mouseleave)="changebase(c1.value)">
+
         <option value="TND">Tunisian Dinar (TND)</option>
         <option value="ILS">Palestinian new shekel (PLS)</option>
         <option value="USD">US Dollar (USD)</option>
@@ -16,11 +17,13 @@
         <option value="SDG">Sudanese Pound (SDG)</option>
         <option value="SAR">Saudi Riyal (SAR)</option>
         <option value="TRY">Turkish Lira (TRY)</option>
+        <option value="AED">UA Emirates Dirham (AED)</option>
         <option value="QAR">Qatari Riyal (QAR)</option>
         <option value="SYP">Syrian Pound (SYP)</option>
         <option value="KWD">Kuwaiti Dinar (KWD)</option>
         <option value="LBP">Lebanese Pound (LBP)</option>
         <option value="RUB">Russian Ruble (RUB)</option>
+        <option value="JPY">Japanese Yen (JPY)</option>
       </select>
       <p>
         to
@@ -39,11 +42,13 @@
         <option value="SDG">Sudanese Pound (SDG)</option>
         <option value="SAR">Saudi Riyal (SAR)</option>
         <option value="TRY">Turkish Lira (TRY)</option>
+        <option value="AED">UA Emirates Dirham (AED)</option>
         <option value="QAR">Qatari Riyal (QAR)</option>
         <option value="SYP">Syrian Pound (SYP)</option>
         <option value="KWD">Kuwaiti Dinar (KWD)</option>
         <option value="LBP">Lebanese Pound (LBP)</option>
         <option value="RUB">Russian Ruble (RUB)</option>
+        <option value="JPY">Japanese Yen (JPY)</option>
       </select>
     </div><br>
     <button (click)="convert()">Convert</button>
@@ -64,10 +69,10 @@
       <p>
         <font size="5">
           &copy;</font>
-        This App is developed by
+        This App is developed by&nbsp;
         <font size="5">
           <a class="linko" href="https://github.com/OneEyeX" target="_blank">OneEyeX</a>
-        </font> using
+        </font>&nbsp; using
       </p>
 
       <a href="javascript:void(0)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="30px"

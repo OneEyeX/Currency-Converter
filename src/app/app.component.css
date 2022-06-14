@@ -96,15 +96,27 @@ button:hover{
     color: rgb(87, 117, 252);
 }
 
+.titro{
+    text-decoration: none;
+    /* color:rgb(187, 208, 243); */
+    color: rgb(223, 228, 253);
+}
+.titro:hover{
+    /* cursor: pointer; */
+    cursor: default;
+    outline: none;
+    color: rgb(172, 187, 252);
+}
+
 span {
-    font-size: 1em; 
-    zoom: 1.5;  
+    font-size: 1em;
+    zoom: 1.5;
   }
-  
+
   span svg {
     fill: #3b5998;
     height: 1em;
-    vertical-align: bottom;  
+    vertical-align: bottom;
   }
 a span {
   display: none;

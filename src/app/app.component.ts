@@ -105,6 +105,14 @@ export class AppComponent {
         this.result = this.currChedJson.rates.RUB;
       }
 
+      if (this.contChed2 == "JPY") {
+        this.result = this.currChedJson.rates.JPY;
+      }
+
+      if (this.contChed2 == "AED") {
+        this.result = this.currChedJson.rates.AED;
+      }
+
     })
 
 
