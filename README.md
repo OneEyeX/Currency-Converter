@@ -2,7 +2,7 @@
 
 ## About
 
-it's a currency converter app that exchange rates available countries. It shows you the mid-market live rate.
+it's a currency converter app that exchange rates for the available countries. It shows you the mid-market live rate.
 
 ## you can try this app from the link below
 
