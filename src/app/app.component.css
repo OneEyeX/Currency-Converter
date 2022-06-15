@@ -111,8 +111,8 @@ button:hover{
 }
 
 span {
-    font-size: 1em;
-    zoom: 1.5;
+    font-size: 1.1em;
+    /* zoom: 1.2; */
   }
 
   span svg {
