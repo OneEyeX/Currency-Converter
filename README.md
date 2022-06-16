@@ -207,22 +207,16 @@ Project Link: [https://github.com/OneEyeX/Currency-Converter
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!--  #reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/OneEyeX/Currency-Converter
-.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/OneEyeX/Currency-Converter.svg?style=for-the-badge
 [contributors-url]: https://github.com/OneEyeX/Currency-Converter/graphs/
 [forks-shield]: https://img.shields.io/github/forks/OneEyeX/Currency-Converter.svg?style=for-the-badge
-[forks-url]: https://github.com/OneEyeX/Currency-Converter
-/network/members
+[forks-url]: https://github.com/OneEyeX/Currency-Converter/network/members
 [stars-shield]: https://img.shields.io/github/stars/OneEyeX/Currency-Converter.svg?style=for-the-badge
-[stars-url]: https://github.com/OneEyeX/Currency-Converter
-/stargazers
+[stars-url]: https://github.com/OneEyeX/Currency-Converter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/OneEyeX/Currency-Converter
-/issues
-[license-shield]: https://img.shields.io/github/license/OneEyeX/Currency-Converter
-.svg?style=for-the-badge
-[license-url]: https://github.com/OneEyeX/Currency-Converter
-/LICENSE.txt
+[issues-url]: https://github.com/OneEyeX/Currency-Converter/issues
+[license-shield]: https://img.shields.io/github/license/OneEyeX/Currency-Converter.svg?style=for-the-badge
+[license-url]: https://github.com/OneEyeX/Currency-Converter/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chedly-chahed-a178a9196/
 [product-screenshot]: img/cv.png
