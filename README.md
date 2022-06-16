@@ -159,8 +159,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
  
 
-See the [open issues](https://github.com/OneEyeX/Currency-Converter
-/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/OneEyeX/Currency-Converter/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -210,14 +209,11 @@ Project Link: [https://github.com/OneEyeX/Currency-Converter
 <!--  #reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/OneEyeX/Currency-Converter
 .svg?style=for-the-badge
-[contributors-url]: https://github.com/OneEyeX/Currency-Converter
-/graphs/
-[forks-shield]: https://img.shields.io/github/forks/OneEyeX/Currency-Converter
-.svg?style=for-the-badge
+[contributors-url]: https://github.com/OneEyeX/Currency-Converter/graphs/
+[forks-shield]: https://img.shields.io/github/forks/OneEyeX/Currency-Converter.svg?style=for-the-badge
 [forks-url]: https://github.com/OneEyeX/Currency-Converter
 /network/members
-[stars-shield]: https://img.shields.io/github/stars/OneEyeX/Currency-Converter
-.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/OneEyeX/Currency-Converter.svg?style=for-the-badge
 [stars-url]: https://github.com/OneEyeX/Currency-Converter
 /stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
