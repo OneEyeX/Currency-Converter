@@ -219,7 +219,7 @@ Project Link: [https://github.com/OneEyeX/Currency-Converter
 [license-url]: https://github.com/OneEyeX/Currency-Converter/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chedly-chahed-a178a9196/
-[product-screenshot]: img/cv.png
+[product-screenshot]: src/favicon.ico
 
 
 
