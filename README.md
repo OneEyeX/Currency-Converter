@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/OneEyeX/Currency-Converter
 /">
-    <img src="clock.ico" alt="Logo" width="80" height="80">
+    <img src="src/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Currency Converter</h3>
@@ -219,7 +219,7 @@ Project Link: [https://github.com/OneEyeX/Currency-Converter
 [license-url]: https://github.com/OneEyeX/Currency-Converter/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chedly-chahed-a178a9196/
-[product-screenshot]: src/favicon.ico
+[product-screenshot]: img/cv.png
 
 
 
