@@ -66,7 +66,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Currency Converter Screen Shot][product-screenshot]](img/cv.png)
+[![Currency Converter Screen Shot][product-screenshot]](src/favicon.ico)
 
 it's a currency converter app that exchange rates for the available countries.
  
