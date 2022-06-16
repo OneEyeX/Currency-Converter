@@ -121,7 +121,8 @@ Run
 
 4. Build
 
-Run ```sh 
+Run 
+```sh 
 ng build
  ``` 
  to build the project. The build artifacts will be stored in the `dist/` directory.
