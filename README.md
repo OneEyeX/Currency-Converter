@@ -149,15 +149,7 @@ ng e2e
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
- 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
- 
+## Issues
 
 See the [open issues](https://github.com/OneEyeX/Currency-Converter/issues) for a full list of proposed features (and known issues).
 
